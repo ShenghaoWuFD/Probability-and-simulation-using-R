@@ -1,2 +1,3 @@
 # Probability-and-simulation-using-R
-Using R to simulate the Geometric Probability Distribution &amp; Weak Law of Large Numbers
+In this project I used function created by myself to simulate the Geometric Probability Distribution &amp; Law of Large Numbers also tested 
+the characters of them
